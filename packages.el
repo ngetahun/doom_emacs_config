@@ -52,5 +52,7 @@
 (package! langtool)
 (package! mu4e-alert :disable t)
 
+(package! org-journal)
+(package! org-roam)
 (package! vue-mode)
 (package! nvm)
